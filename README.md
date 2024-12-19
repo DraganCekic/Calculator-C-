@@ -1,2 +1,2 @@
-# Calculator-C-
+# Calculator
 My first C# Project
